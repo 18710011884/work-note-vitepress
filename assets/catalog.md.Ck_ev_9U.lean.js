@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as r,ae as o}from"./chunks/framework.BaCCgiqy.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"catalog.md","filePath":"catalog.md"}'),n={name:"catalog.md"};function s(h,e,l,u,p,d){return r(),t("div",null,e[0]||(e[0]=[o("",20)]))}const i=a(n,[["render",s]]);export{c as __pageData,i as default};
